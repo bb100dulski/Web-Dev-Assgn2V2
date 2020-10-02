@@ -1,0 +1,17 @@
+p   {
+    color: red;
+}
+
+blockquote  {
+    color: darkred;
+}
+
+q   {
+    color: indianred;
+}
+
+.ui.table > tr:nth-child(2n), 
+.ui.table tbody tr:nth-child(2n)  {
+    background-color:  white;
+    color: red;
+}
